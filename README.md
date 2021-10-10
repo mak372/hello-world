@@ -1,3 +1,2 @@
-# hello-world
-trying github
-just learning github basics for sem 3 project
+<h4>Work done during development of website for Shivanjali NGO</h4>
+
